@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.14
+statsmodels>=0.14
+matplotlib
+seaborn
+pyarrow
+pyportfolioopt>=1.5.5
+arch
+hmmlearn>=0.3.2
+ruptures>=1.1
+skfolio>=0.1
+vectorbt>=0.26
+pytest
